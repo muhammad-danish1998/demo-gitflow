@@ -1,1 +1,6 @@
+
+first.txt is updated
+ 
+C
+it 
 it first.txt 
